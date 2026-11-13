@@ -8,7 +8,7 @@
     <link href="/2026/11/12/first-post/"/>
     <url>/2026/11/12/first-post/</url>
     
-    <content type="html"><![CDATA[<p>欢迎来到 <strong>BBFFYY 的学习笔记</strong>。</p><p>这是网站的第一篇文章。之后我会在这里记录：</p><ul><li>课程学习笔记</li><li>编程与项目实践</li><li>工具使用与踩坑记录</li><li>读书与思考</li></ul><h2 id="为什么开始写学习笔记"><a href="#为什么开始写学习笔记" class="headerlink" title="为什么开始写学习笔记"></a>为什么开始写学习笔记</h2><p>把学到的东西写下来，既能帮助自己复习，也方便以后查阅。</p><h2 id="接下来要做什么"><a href="#接下来要做什么" class="headerlink" title="接下来要做什么"></a>接下来要做什么</h2><ol><li>配置网站主题</li><li>整理文章分类和标签</li><li>部署到 GitHub Pages</li><li>坚持更新</li></ol><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;Hello, BBFFYY!&quot;</span>)<br></code></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>欢迎来到 <strong>樊赟 的学习笔记</strong>。</p><p>这是网站的第一篇文章。之后我会在这里记录：</p><ul><li>课程学习笔记</li><li>编程与项目实践</li><li>工具使用与踩坑记录</li><li>读书与思考</li></ul><h2 id="为什么开始写学习笔记"><a href="#为什么开始写学习笔记" class="headerlink" title="为什么开始写学习笔记"></a>为什么开始写学习笔记</h2><p>把学到的东西写下来，既能帮助自己复习，也方便以后查阅。</p><h2 id="接下来要做什么"><a href="#接下来要做什么" class="headerlink" title="接下来要做什么"></a>接下来要做什么</h2><ol><li>配置网站主题</li><li>整理文章分类和标签</li><li>部署到 GitHub Pages</li><li>坚持更新</li></ol><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;Hello, BBFFYY!&quot;</span>)<br></code></pre></td></tr></table></figure>]]></content>
     
     
     <categories>
